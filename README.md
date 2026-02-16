@@ -6,8 +6,6 @@
 
 ## 📌 Project Overview
 
-<img width="2890" height="680" alt="diagram-export-16-02-2026-22_46_31" src="https://github.com/user-attachments/assets/44db6fec-b295-43a6-a136-0aeb079547d6" />
-
 This project demonstrates a complete DevSecOps workflow:
 
 * Secure CI with **SonarQube + Trivy**
@@ -24,9 +22,7 @@ This project demonstrates a complete DevSecOps workflow:
 
 (Add your architecture screenshot here)
 
-```md
-![Architecture Diagram](screenshots/architecture.png)
-```
+<img width="2890" height="680" alt="diagram-export-16-02-2026-22_46_31" src="https://github.com/user-attachments/assets/44db6fec-b295-43a6-a136-0aeb079547d6" />
 
 ---
 
@@ -43,7 +39,6 @@ This project demonstrates a complete DevSecOps workflow:
 📸 Screenshot:
 
 <img width="795" height="713" alt="Screenshot 2026-02-16 at 11 49 15 PM" src="https://github.com/user-attachments/assets/b3e037d3-b73c-4e00-846e-9fe8e36ec839" />
-![CI Pipeline](screenshots/ci-pipeline.png)
 
 ---
 
