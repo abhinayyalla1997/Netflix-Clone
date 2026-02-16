@@ -11,7 +11,7 @@ image:
   # This sets the pull policy for images.
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
-  tag: 1bf81ca9dbf8bff3c475d824dc569b09395a5c24
+  tag: 4b8dfa31517469c51f62dcde4d8dca6c461a8423
 
 # This is for the secrets for pulling an image from a private repository more information can be found here: https://kubernetes.io/docs/tasks/configure-pod-container/pull-image-private-registry/
 imagePullSecrets: []
@@ -164,7 +164,7 @@ replicaCount: 2
 
 image:
   repository: abhinayyalla/netflix
-  tag: 1bf81ca9dbf8bff3c475d824dc569b09395a5c24
+  tag: 4b8dfa31517469c51f62dcde4d8dca6c461a8423
   pullPolicy: Always
 
 service:
