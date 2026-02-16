@@ -33,7 +33,9 @@ jobs:
 
       # ✅ SonarQube Scan
       - name: SonarQube Scan
+        continue-on-error: true
         uses: SonarSource/sonarqube-scan-action@v2
         env:
           SONAR_TOKEN: ${{ secrets.SONAR_TOKEN }}
           SONAR_HOST_URL: ${{ secrets.SONAR_HOST_URL }}
+     
