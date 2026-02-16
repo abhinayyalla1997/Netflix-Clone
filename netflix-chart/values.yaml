@@ -163,7 +163,7 @@ affinity: {}
 replicaCount: 2
 
 image:
-  repository: nasi101/netflix
+  repository: abhinayyalla/netflix
   tag: 1bf81ca9dbf8bff3c475d824dc569b09395a5c24
   pullPolicy: Always
 
